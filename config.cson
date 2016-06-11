@@ -44,6 +44,8 @@
       theme: "homebrew"
     toggles:
       autoClose: true
+  "vim-mode-plus":
+    highlightSearch: true
   welcome:
     showOnStartup: false
   whitespace:
