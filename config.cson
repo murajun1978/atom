@@ -28,10 +28,19 @@
     showInvisibles: true
     tabType: "soft"
     zoomFontWhenCtrlScrolling: true
+  "editor-background":
+    image: {}
+    text: {}
   "exception-reporting":
     userId: "14157c14-ce1e-e706-2148-3c7fc1ba2a90"
   "file-icons":
     forceShow: true
+  "git-control":
+    showGitFlowButton: false
+  "git-plus":
+    pullBeforePush: "pull --rebase"
+  "imdone-atom":
+    useAlternateFileWatcher: true
   "terminal-plus":
     style:
       defaultPanelHeight: "200px"
